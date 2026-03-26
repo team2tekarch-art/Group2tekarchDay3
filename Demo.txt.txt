@@ -1,1 +1,2 @@
-Git Merge conflict practice - Day3
+Git Merge, conflict practice - Day3/New line by chandana
+adding line2 - chandana
